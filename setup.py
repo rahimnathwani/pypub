@@ -1,5 +1,9 @@
 from setuptools import setup
 
+"""
+ayy lmao this is a comment
+"""
+
 setup(
     name='pypub',
     version='1.5',
