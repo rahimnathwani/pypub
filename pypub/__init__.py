@@ -6,7 +6,7 @@ epub library designed to build and generate ebooks in ePub format
 __all__ = [
     'Epub',
     'Chapter',
-
+    'ChapterFactory',
     'create_chapter_from_url',
     'create_chapter_from_file',
     'create_chapter_from_string'
